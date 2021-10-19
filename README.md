@@ -1,2 +1,0 @@
-# NJM
-Preview testnog weba
